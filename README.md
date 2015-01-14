@@ -1,1 +1,1 @@
-# intro-to-pandas
+# Introduction to IPython Notebook and pandas
